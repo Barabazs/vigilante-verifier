@@ -1,0 +1,3 @@
+[submodule "honestnft-shenanigans"]
+	path = honestnft-shenanigans
+	url = https://github.com/Convex-Labs/honestnft-shenanigans.git

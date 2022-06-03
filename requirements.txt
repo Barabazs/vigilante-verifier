@@ -1,0 +1,6 @@
+pandas
+requests
+web3
+python-dotenv
+multicall==0.2.0
+-e ./honestnft-shenanigans

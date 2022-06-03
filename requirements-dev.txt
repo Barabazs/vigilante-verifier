@@ -1,0 +1,2 @@
+black[jupyter]
+pre-commit
