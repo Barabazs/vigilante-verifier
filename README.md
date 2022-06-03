@@ -31,4 +31,3 @@ Either run the notebook and follow the inline instructions or read the article f
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
